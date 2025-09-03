@@ -19,3 +19,10 @@ third person - does the author intrude on
 # how to find a theme
 1. identify the conflict in the selection
 2. identify resolution
+3. make this conflict/resolution universal
+   1. what are the ideas surrounding the conflict? the resolution?
+   2. look for singular, abstract words
+4. establish a relationship between these ideas in a complete sentence
+   1. no character
+   2. no specific events
+   3. (author) writes (title) in order to illustrate that (universal idea) (message about the idea that is true for most, if not all, people)
