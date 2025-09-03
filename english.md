@@ -26,3 +26,11 @@ third person - does the author intrude on
    1. no character
    2. no specific events
    3. (author) writes (title) in order to illustrate that (universal idea) (message about the idea that is true for most, if not all, people)
+
+**anaphora**: the exact repitition of words or phrases at the beginning of successive lines or sentences
+
+**epistrophe**: same thing but at the end
+
+**diction**: the author's word choice. powerful diction choices can build images, create a specific tone, or carry a strong connotation
+
+**imagery**: language that appeals to the senses. goes beyond simple description by building a sensory image
