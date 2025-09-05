@@ -1,14 +1,14 @@
 synesthesia: using words from two different senses to describe something
 
-why is the author putting in effort to combine the senses?
-what senses are being combined?
-what individual descriptive words are being used
+why is the author putting in effort to combine the senses?  
+what senses are being combined?  
+what individual descriptive words are being used  
 how does the thing, the senses, and the diction contribute to the theme
 
 what's the impact on story?
 
 ### structure of story
-where does it start/end?
+where does it start/end?  
 what is dramatized/summarized?
 
 ### narrator distance
@@ -34,3 +34,18 @@ third person - does the author intrude on
 **diction**: the author's word choice. powerful diction choices can build images, create a specific tone, or carry a strong connotation
 
 **imagery**: language that appeals to the senses. goes beyond simple description by building a sensory image
+
+### meter: basic rhythmic structure
+older poetry meter often not significant, just how poetry was written
+
+what it does
+* helps establish the tone of poem
+* formal structure - reinforce or contrast subject/theme
+* focuses attention on certain words or lines
+  * sudden changes of meter
+
+what it doesn't do
+* create a "flow"
+* make a nice "sing song" effect
+  * "soothing," "repetitive," "childlike"
+  * link to tone -> theme
