@@ -49,3 +49,14 @@ what it doesn't do
 * make a nice "sing song" effect
   * "soothing," "repetitive," "childlike"
   * link to tone -> theme
+
+# Harlem by Langston Hughes
+## Simile
+* Raising in sun - dried up, once was good, now done
+* festering sore with pus - infected/poisoning, only harming me
+* stinking rotten meat - smell goes everywhere, not good
+* crusty sugary sweet - once good, buildup
+* sags like heavy load - weighs us down, prevents movement
+* exploding thing - violent: this one is different because it harms everybody
+
+racial component of this - harlem is a place where people's dreams were deferred - this poem is about what happens to deferred dreams
