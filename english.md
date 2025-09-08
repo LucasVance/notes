@@ -50,8 +50,8 @@ what it doesn't do
   * "soothing," "repetitive," "childlike"
   * link to tone -> theme
 
-# Harlem by Langston Hughes
-## Simile
+
+### Simile in Harlem by Langston Hughes
 * Raising in sun - dried up, once was good, now done
 * festering sore with pus - infected/poisoning, only harming me
 * stinking rotten meat - smell goes everywhere, not good
@@ -60,3 +60,24 @@ what it doesn't do
 * exploding thing - violent: this one is different because it harms everybody
 
 racial component of this - harlem is a place where people's dreams were deferred - this poem is about what happens to deferred dreams
+
+---
+
+**direct metaphor**: comparison of two unlike things where one is made equivalent to the other  
+**implied metaphor**: when something in the text is indirectly made equivalent to something else. The reader must infer the comparison.
+
+---
+### Next, Please by Philip Larkin
+ 
+the ship of promises looks nice
+but never anchors and it's slow
+POV is waiting at a bluff with disappointing flowers
+
+ship of death
+no life behind the black ship, no wake
+this comes after everything else, finality of death
+
+overall theme is **the only future we are guaranteed is death**
+
+explain that there are two primary contrasting metaphors  
+must compare the two ships
